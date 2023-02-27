@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjaminmorel&label=Profile%20views&color=0e75b6&style=flat" alt="benjaminmorel" /> </p>
 
-<!--
 **BenjaminMorel/BenjaminMorel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,5 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=benjaminmorel&label=Profile%20views&color=0e75b6&style=flat" alt="benjaminmorel" /> </p>
